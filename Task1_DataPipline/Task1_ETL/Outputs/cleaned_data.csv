@@ -1,0 +1,21 @@
+ID,NAME,AGE,MARKS,ATTANDANCE,GRADE,RESULT,AGE_GROUP,DEPT_CSE,DEPT_ECE,DEPT_EEE,DEPT_IT
+1,Akalya,23,0.47368421052631593,92,A,Pass,Young Adult,True,False,False,False
+2,Aravind,27,0.7368421052631575,95,A+,Pass,Adult,False,True,False,False
+3,Priya,25,0.10526315789473628,88,B+,Pass,Young Adult,False,False,False,True
+4,Aruna Devi,22,0.6315789473684212,90,A,Pass,Young Adult,True,False,False,False
+5,Brundhadevi,24,0.8421052631578947,96,A+,Pass,Young Adult,False,False,True,False
+6,Rahul,26,0.0,85,B,Pass,Adult,True,False,False,False
+7,Archana,21,0.2631578947368416,89,B+,Pass,Young Adult,False,False,False,True
+8,Kaaarunya,23,1.0,94,A+,Pass,Young Adult,False,True,False,False
+9,Raja,22,0.6842105263157894,91,A,Pass,Young Adult,True,False,False,False
+10,Ravi,24,0.4210526315789469,87,B+,Pass,Young Adult,False,False,True,False
+11,Lakshmi,25,0.05263157894736814,90,B,Pass,Young Adult,False,False,False,True
+12,Ashika,27,0.7894736842105257,93,A,Pass,Adult,True,False,False,False
+13,Anita,23,0.5263157894736841,88,A,Pass,Young Adult,False,True,False,False
+14,Manoj,22,0.21052631578947345,86,B,Pass,Young Adult,False,False,True,False
+15,Chaaru,24,0.8947368421052628,95,A+,Pass,Young Adult,True,False,False,False
+16,Vikram,26,0.1578947368421053,89,B,Pass,Adult,False,False,False,True
+17,Nisha,25,0.5789473684210522,92,A,Pass,Young Adult,False,True,False,False
+18,Rajan,23,0.3157894736842106,90,B+,Pass,Young Adult,True,False,False,False
+19,Geetha,22,0.7368421052631575,94,A+,Pass,Young Adult,False,False,True,False
+20,Varun,24,0.6315789473684212,91,A,Pass,Young Adult,False,False,False,True
