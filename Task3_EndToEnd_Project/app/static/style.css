@@ -1,5 +1,6 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
   background: radial-gradient(circle at 20% 20%, #330000, #000000 40%),
               radial-gradient(circle at 80% 30%, #660000, #000000 60%),
               radial-gradient(circle at 50% 80%, #990000, #000000 70%);
@@ -14,7 +15,7 @@ body {
   margin: 60px auto;
   padding: 20px;
   text-align: center;
-  background: rgba(20, 0, 0, 0.7);
+  background: rgba(20, 0, 0, 0.7); 
   border-radius: 10px;
   box-shadow: 0 4px 15px rgba(255, 0, 0, 0.4);
 }
@@ -22,11 +23,11 @@ body {
 h1 {
   font-size: 28px;
   margin-bottom: 24px;
-  color: #ff4d4d;
+  color: #ff4d4d; 
 }
 
 textarea {
-  width: calc(100% - 4px);
+  width: calc(100% - 4px); 
   max-width: 100%;
   padding: 14px;
   font-size: 16px;
@@ -51,7 +52,7 @@ button {
   margin-top: 16px;
   padding: 10px 20px;
   font-size: 16px;
-  background-color: #b30000;
+  background-color: #b30000; 
   color: #fff;
   border: none;
   border-radius: 6px;
@@ -60,8 +61,8 @@ button {
 }
 
 button:hover {
-  background-color: #ff1a1a;
-  box-shadow: 0 0 12px rgba(255, 0, 0, 0.6);
+  background-color: #ff1a1a; 
+  box-shadow: 0 0 12px rgba(255, 0, 0, 0.6); 
 }
 
 .result {
@@ -70,7 +71,7 @@ button:hover {
   background: rgba(255, 0, 0, 0.1); 
   border-radius: 6px;
   font-size: 18px;
-  color: #ffcccc;
+  color: #ffcccc; 
 }
 
 .positive {
@@ -79,6 +80,6 @@ button:hover {
 }
 
 .negative {
-  color: #ff3333;
+  color: #ff3333; 
   font-weight: bold;
 }
