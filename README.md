@@ -1,7 +1,7 @@
 # CODTECH Internship – Data Science Track  
 
 This repository contains my completed tasks for the CODTECH Data Science Internship.  
-Each task demonstrates hands-on skills in **data cleaning, transformation, visualization, machine learning, and end-to-end deployment**.  
+Each task demonstrates hands-on skills in **data cleaning, transformation, visualization, machine learning, optimization, and end-to-end deployment**.  
 
 ---
 
@@ -38,9 +38,20 @@ Each task demonstrates hands-on skills in **data cleaning, transformation, visua
 
 ---
 
+## 📁 Task 4 – Production Optimization Model  
+- Developed an **optimization model** to minimize production costs while meeting demand and capacity constraints.  
+- Utilized **linear programming techniques** to generate optimal production plans.  
+- Visualized results with plots (e.g., `production_plan.png`) for clear interpretation.  
+- Organized project with modular code (`model.py`, `utils.py`, `visualize.py`) and reproducible notebooks.  
+
+**Tools used:** Python, Pandas, NumPy, Matplotlib, Linear Programming (PuLP/Optimization libraries)  
+**📂 Folder:** `Task4_Optimization/`  
+
+---
+
 ## 🔧 Technologies Across All Tasks  
 - **Programming:** Python, Jupyter Notebook  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, TensorFlow/Keras, Scikit-learn  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, TensorFlow/Keras, Scikit-learn, PuLP  
 - **Frameworks:** Flask (for Web UI + API)  
 - **Version Control:** Git & GitHub  
 - **Data Handling:** Git LFS for large files  
@@ -50,4 +61,4 @@ Each task demonstrates hands-on skills in **data cleaning, transformation, visua
 ## 👩‍💻 Author  
 **Akalya G**  
 - Pre-final year Computer Science Engineering student  
-- Focused on **full-stack development, data analytics, and digital credential management**  
+- Focused on **web developement & data science learner, aspiring data analytics, optimization, and digital credential management**  
