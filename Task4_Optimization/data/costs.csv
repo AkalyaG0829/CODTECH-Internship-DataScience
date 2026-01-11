@@ -1,0 +1,6 @@
+product,labor_hours_per_unit,machine_hours_per_unit,raw_material_per_unit,budget_per_unit,profit_per_unit
+A,2,3,4,5,10
+B,1,2,3,4,8
+C,4,2,5,6,12
+D,3,4,2,3,9
+E,5,3,6,7,15
